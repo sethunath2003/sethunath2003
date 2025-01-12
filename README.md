@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="coding"/>
 </div>
-I'm a passionate BTech **Computer Science & Engineering** student who loves turning ideas into code. With a focus on **web development** and a knack for problem-solving, I'm constantly exploring new technologies and pushing my boundaries.<br><br>
+I'm a passionate BTech Computer Science & Engineering student who loves turning ideas into code. With a focus on web development and a knack for problem-solving, I'm constantly exploring new technologies and pushing my boundaries.<br><br>
 🚀 Technical Arsenal{<br>
     'Web Development': ['C','HTML', 'CSS', 'JavaScript','React'],<br>
     'Backend': ['Flask']<br>
