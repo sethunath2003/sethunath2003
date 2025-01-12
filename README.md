@@ -2,21 +2,20 @@
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="coding"/>
 </div>
-I'm a passionate BTech Computer Science & Engineering student who loves turning ideas into code. With a focus on web development and a knack for problem-solving, I'm constantly exploring new technologies and pushing my boundaries.
-🚀 Technical Arsenal
-    'Languages': ,
-    'Web Development': ['C','HTML', 'CSS', 'JavaScript'],
-    'Backend': ['Flask'],
-    'Database': ['MySQL'],
+I'm a passionate BTech **Computer Science & Engineering** student who loves turning ideas into code. With a focus on **web development** and a knack for problem-solving, I'm constantly exploring new technologies and pushing my boundaries.<br><br>
+🚀 Technical Arsenal{<br>
+    'Web Development': ['C','HTML', 'CSS', 'JavaScript','React'],<br>
+    'Backend': ['Flask']<br>
+    'Database': ['MySQL']<br>
     'Interests': ['Dynamic Web Scraping', 'Chatbot Development', 'Voice Assistance']
-}
+}<br><br>
 🏆 Achievements & Experiences
+<br><br>
 
-
-🥈 IEEE Website-Building Hackathon: Secured second place, demonstrating expertise in web development
-🛠️ GPS-Based Toll System: Developed during Intel UNNATI 2024 training
-📊 Student Grade Tracker: Built using Flask and MySQL
-🎤 Technical Presentations: Delivered talks on voice assistance and space technologies
+🥈 IEEE Website-Building Hackathon: Secured second place, demonstrating expertise in web development<br>
+🛠️ GPS-Based Toll System: Developed during Intel UNNATI 2024 training<br>
+📊 Student Grade Tracker: Built using Flask and MySQL<br>
+🎤 Technical Presentations: Delivered talks on voice assistance and space technologies<br>
 
 💡 Current Focus
 
